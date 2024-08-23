@@ -13,4 +13,4 @@ This application is entitled Simple Banking Management System. This is a simple 
 ## Sample Snapshots
 
 - Portal Page
-- [https://github.com/Darshancs777/Banking-System/blob/main/images/index.png]
+- (https://github.com/Darshancs777/Banking-System/blob/main/images/index.png)
