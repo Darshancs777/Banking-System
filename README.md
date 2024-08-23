@@ -10,30 +10,30 @@ This application is entitled Simple Banking Management System. This is a simple 
 - Withdraw Amount from Account
 - Logout
 
-  ## Libraries
-  - Python
-  - Django
-  - SQLite3
-  - HTML
-  - CSS
-  - Tailwind CSS Framework
+## Libraries
+- Python
+- Django
+- SQLite3
+- HTML
+- CSS
+- Tailwind CSS Framework
 
 ## Sample Snapshots
 
-                                                                   Portal Page
+                                                          Portal Page
   ![](https://github.com/Darshancs777/Banking-System/blob/main/images/index.png)
 
-                                                                  Login Page
+                                                         Login Page
  ![](https://github.com/Darshancs777/Banking-System/blob/main/images/sigin%20in.png)
 
-                                                                  Registration Page 
+                                                        Registration Page 
  ![](https://github.com/Darshancs777/Banking-System/blob/main/images/register.png)
 
-                                                                Deposit  Page
+                                                        Deposit  Page
  ![](https://github.com/Darshancs777/Banking-System/blob/main/images/deposite.png)
 
-                                                                Withdraw Page
+                                                         Withdraw Page
  ![](https://github.com/Darshancs777/Banking-System/blob/main/images/withdraw.png)
 
-                                                              Transaction Records Page
+                                                        Transaction Records Page
   ![](https://github.com/Darshancs777/Banking-System/blob/main/images/home.png)
